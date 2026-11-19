@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-19T15:40:10Z",
+  "generated": "2026-11-19T15:45:35Z",
   "apps": [
     {
       "package": "com.local.appdrawer",
@@ -9,7 +9,7 @@
       "label": "应用商店",
       "file": "sp.baojun.launcher.v1.0.0.1.apk",
       "size": 66367,
-      "sha256": "b7540be70e837153873398e8682d7059ba05fa15ce75922ed27722abdaf184a1"
+      "sha256": "d93301b96a08ca6eedc42c00ccb0d51ebf2705c6a03373839275fc0302c704a6"
     },
     {
       "package": "com.sp.store",
@@ -18,7 +18,7 @@
       "label": "SP Store",
       "file": "sp.baojun.store.v1.0.0.1.apk",
       "size": 218673,
-      "sha256": "fbe79e7fb94e4ec3ce2876ec18e9f43a6cd9b29603df8600a00d3814bb7218e9"
+      "sha256": "649e5f593bef8c2c5ce2fce50c88bc011bd64d14f1dd0d818d15173576437bf5"
     },
     {
       "package": "com.sp.baojunkit",
@@ -26,8 +26,8 @@
       "versionName": "1.0.0",
       "label": "SP Baojun Kit",
       "file": "sp.baojun.kit.v1.0.0.1.apk",
-      "size": 78655,
-      "sha256": "179220aa2d9d20235dc5bbf4698e3e6b88b4117a9faf88c40f0b376302acabb1"
+      "size": 82751,
+      "sha256": "d542f1c350c35fb79009b98bd6d4529e57509d95676385f4f83609438b91d834"
     }
   ]
 }
