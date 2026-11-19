@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "generated": "2026-11-19T15:18:07Z",
+  "apps": [
+    {
+      "package": "com.local.appdrawer",
+      "versionCode": 5,
+      "versionName": "1.4.0",
+      "label": "应用商店",
+      "file": "sp.baojun.launcher.v1.4.0.5.apk",
+      "size": 62263,
+      "sha256": "882a106225fe516139dc0da6c9b0f8b4b0c4b2f31eb23ef0862d41099034b7f9"
+    },
+    {
+      "package": "com.sp.baojunkit",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "label": "SP Baojun Kit",
+      "file": "sp.baojun.kit.v1.0.0.1.apk",
+      "size": 78647,
+      "sha256": "bbe070cabb9bf8a87a2324b287885073a9287425d0cbe547f25cf2e7fc558fbd"
+    }
+  ]
+}
