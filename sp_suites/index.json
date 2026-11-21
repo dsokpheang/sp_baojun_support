@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T19:23:59Z",
+  "generated": "2026-11-21T19:47:17Z",
   "apps": [
     {
       "package": "com.local.appdrawer",
@@ -14,11 +14,11 @@
     {
       "package": "com.sp.baojunkit",
       "label": "SP Baojun Kit",
-      "versionName": "1.4.9",
-      "versionCode": 612,
-      "file": "sp.baojun.kit.v1.4.9.612.apk",
+      "versionName": "1.4.10",
+      "versionCode": 613,
+      "file": "sp.baojun.kit.v1.4.10.613.apk",
       "size": 4453008,
-      "sha256": "34b9725e3bdac2d931607759a8d8954c2396c7a2fe0246b54c6ac5bbcb981dbc"
+      "sha256": "326ebe6f926b621db7bc7f845969b23632b2e204c5b0c96dccfd5b72654a561b"
     },
     {
       "package": "com.sp.files",
